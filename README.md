@@ -5,7 +5,7 @@ This notebook helps to scrape the data and process the json format to the csv
 Steps:
 1. You can choose the flight which you want to do EDA
 2.Search for the specific flight number on the search bar at Flight radar24 
-![image](https://user-images.githubusercontent.com/55647096/202168083-134a8b18-bb14-4f83-a5b6-a60f5f5644fc.png)
+![image](https://user-images.githubusercontent.com/55647096/202170103-95117014-80ef-440d-baea-df94b0c1d26b.png)
 3.Then select specific flight from the history list
 ![image](https://user-images.githubusercontent.com/55647096/202168478-11c274af-67bd-47da-b332-afbeb77fd007.png)
 4.Then click the play button which will direct you to the new tab
